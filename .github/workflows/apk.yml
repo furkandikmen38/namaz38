@@ -342,4 +342,3 @@ jobs:
           name: Namaz-Modu-v2-APK
           path: NamazModu_Android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
-a
